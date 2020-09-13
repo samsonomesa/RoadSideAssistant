@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Road Assistant</string>
+    <string name="login_text">Login</string>
+    <string name="register_text">Register</string>
+    <string name="signup_prompt">Don\'t have an account yet?</string>
+    <string name="login_prompt">Already have an account login?</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="welcome_text">Welcome Home</string>
+    <string name="logout_text">logout</string>
+    <string name="home_text">Home</string>
+    <string name="profile_text">Profile</string>
+    <string name="user_avatar_text">User Avatar</string>
+    <string name="services_text">Services</string>
+    <string name="products_text">Products</string>
+    <string name="blog_text">Blog</string>
+    <string name="notifications_text">Notifications</string>
+    <string name="about_us_text">About Us</string>
+    <string name="get_started_text">Get Help</string>
+    <string name="car_model_question">What is the make and model of your car?</string>
+    <string name="select_car_model_hint">Select Car Model…</string>
+    <string name="next_text">Next</string>
+    <string name="add_phone_text">Add Phone Number</string>
+    <string name="permission_rejected">Permission not granted</string>
+    <string name="location_exception_message">Unable to get the last know location</string>
+
+    <string-array name="car_models">
+        <item>ASTON MARTIN DB7</item>
+        <item>ASTON MARTIN DB9</item>
+        <item>ASTON MARTIN DBS</item>
+        <item>ASTON MARTIN RAPIDE</item>
+        <item>ASTON MARTIN V8 VANTAGE</item>
+        <item>FORD LASER</item>
+        <item>HONDA DASH</item>
+        <item>MAZDA ASTINA</item>
+        <item>MERCEDES-BENZ A CLASS W168</item>
+        <item>MERCEDES-BENZ A CLASS W169</item>
+        <item>MERCEDES-BENZ A CLASS W176</item>
+        <item>MERCEDES-BENZ C CLASS W205</item>
+        <item>MERCEDES-BENZ R CLASS</item>
+        <item>MITSUBISHI ASX</item>
+        <item>Modenas CT115S</item>
+        <item>Modenas KRISS</item>
+        <item>SUZUKI Kishazi</item>
+        <item>TOYOTA MASTERACE SURF</item>
+        <item>TOYOTA COROLLA</item>
+        <item>VOLKSWAGEN PASSAT</item>
+        <item>VOLKSWAGEN PASSAT CC</item>
+        <item>ROLLS ROYCE SPIRIT</item>
+        <item>ROLLS ROYCE SPUR</item>
+        <item>Nissan</item>
+    </string-array>
+
+    <string-array name="garages">
+        <item>Garage A</item>
+        <item>Garage B</item>
+        <item>Garage C</item>
+        <item>Garage D</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="display_name_hint">Display Name Loading…</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="not_verified_text">Not Verified</string>
+    <string name="setup_account_text">Setup Account</string>
+    <string name="display_name">Display Name</string>
+    <string name="update_account">Update Account</string>
+    <string name="material_search_hint">Search For Place…</string>
+    <string name="application_logo">Application Logo</string>
+    <string name="request_permission">Request Permission</string>
+    <string name="request_permission_explanation">This Application needs permission to access device location, call manager, gallery and other stuff that will be shown in the following dialogs to provide required services, Please Allow the permission</string>
+    <string name="grant_permission_text">Grant Permission</string>
+    <string name="search_location_text">Search Your Location…</string>
+    <string name="item_text">Item</string>
+    <string name="description_hint">Description…</string>
+    <string name="car_plate_text">Car Plate</string>
+    <string name="skip_text">Skip</string>
+    <string name="select_garage_text">Select Garage…</string>
+    <string name="garage_quiz_prompt">Do you need a garage?</string>
+    <string name="garage_spinner_prompt">Select a garage of your choice…</string>
+    <string name="car_model_text">Car Model</string>
+    <string name="location_text">Location</string>
+    <string name="location_loading_text">Location Loading…</string>
+    <string name="car_plate_loading_text">Car Plate Loading…</string>
+    <string name="description_text">Description</string>
+    <string name="description_loading_text">Description Loading…</string>
+    <string name="garage_text">Garage</string>
+    <string name="garage_loading_text">Garage Loading…</string>
+    <string name="call_agent_text">Call Agent</string>
+    <string name="name_hint">Name…</string>
+    <string name="account_circle_text">Account Circle</string>
+    <string name="contact_text">Contact</string>
+    <string name="selected_services_text">Selected Services</string>
+    <string name="count_hint">Count…</string>
+    <string name="selected_products_text">Selected Products</string>
+    <string name="send_request_text">Send Request</string>
+    <string name="no_garage">No Garage Selected</string>
+    <string name="item_name_text">Item Name</string>
+</resources>
