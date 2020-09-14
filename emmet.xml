@@ -1,0 +1,10 @@
+<application>
+  <component name="EmmetOptions">
+    <option name="addEditPointAtTheEndOfTemplate" value="true" />
+    <option name="filtersEnabledByDefault">
+      <set>
+        <option value="t" />
+      </set>
+    </option>
+  </component>
+</application>
