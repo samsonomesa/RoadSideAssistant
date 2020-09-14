@@ -3,8 +3,10 @@
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Clean artifact" shouldLog="false" />
     <notification groupId="Configure Kotlin in Project" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
-    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" />
     <notification groupId="Indexing" />
   </component>
 </application>
